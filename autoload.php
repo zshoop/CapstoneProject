@@ -1,0 +1,9 @@
+<?php
+include("Config/config.php");
+include("Config/loginClass.php");
+include("Config/profileClass.php");
+include("Config/updateClass.php");
+include("Config/postClass.php");
+include("Config/gameClass.php");
+include("Config/profIDClass.php");
+include("Config/createaccountClass.php");
